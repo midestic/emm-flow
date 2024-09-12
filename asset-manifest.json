@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emm-flow/static/css/main.05d63973.css",
+    "main.js": "/emm-flow/static/js/main.21f6bc2b.js",
+    "static/js/453.e9e384eb.chunk.js": "/emm-flow/static/js/453.e9e384eb.chunk.js",
+    "index.html": "/emm-flow/index.html",
+    "main.05d63973.css.map": "/emm-flow/static/css/main.05d63973.css.map",
+    "main.21f6bc2b.js.map": "/emm-flow/static/js/main.21f6bc2b.js.map",
+    "453.e9e384eb.chunk.js.map": "/emm-flow/static/js/453.e9e384eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05d63973.css",
+    "static/js/main.21f6bc2b.js"
+  ]
+}
