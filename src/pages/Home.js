@@ -17,16 +17,16 @@ export default function Home() {
       {/* Profile Section */}
       <div className="container">
         <div className="row">
-          <div className="col-5 profileImgWrap">
+          <div className="col-4 profileImgWrap">
             <img src={img1} alt="profile" className="img-fluid profileImg" />
           </div>
-          <div className="col-7">
+          <div className="col-8">
             <div className="row shadow p-3">
-              <div className="col-12">
-                <h1 className="lead fs-3 text-nowrap text-center nameWrap">
-                  <b>Elizabeth Olawuyi</b>
+              <div className="col-12 border">
+                <h1 className=" fs-3 text-center">
+                  <b className="name">Elizabeth Olawuyi</b>
                 </h1>
-                <p className="lead text-center">Welcome to Mandem Store</p>
+                <p className="welc text-center">Welcome to Mandem Store</p>
               </div>
             </div>
           </div>
@@ -42,7 +42,7 @@ export default function Home() {
             placeholder="What are you looking for?"
             aria-label="Search"
           />
-          <button className="btn btn-warning tran2 width searchBtn" type="submit">
+          <button className="tran2 width searchBtn" type="submit">
             <FontAwesomeIcon icon={faMagnifyingGlass} />
           </button>
         </form>
@@ -76,13 +76,13 @@ export default function Home() {
 
             <div className="full-width-height m-0 p-0 bestSelling border">
 
-              <h5 className=" text-center  fw-bolder">Best Selling Sneakers</h5>
+              <h5 className=" text-center bss fw-bolder">Best Selling Sneakers</h5>
 
-              <p className="text-center bestSelling text-width">We are offering you the best sneakers purchase in Africa</p>
+              <p className="text-center  bestSelling text-width">We are offering you the best sneakers purchase in Africa</p>
 
 
 
-              <button className="btn btn-warning fw-bolder visitStore"> VISIT STORE </button>
+              <button className=" visitStore">  VISIT STORE </button>
             </div>
 
            
