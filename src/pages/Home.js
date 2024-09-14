@@ -72,17 +72,17 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="col-4 b border">
+          <div className="col-4 b">
 
-            <div className="full-width-height m-0 p-0 bestSelling border">
+            <div className="full-width-height m-0 p-0 bestSelling">
 
-              <h5 className=" text-center bss fw-bolder">Best Selling Sneakers</h5>
+              <p className="text-center fs-6 fs-md-5 fw-bold">Best Selling Sneakers</p>
 
-              <p className="text-center  bestSelling text-width">We are offering you the best sneakers purchase in Africa</p>
+              <p className="text-center bestSelling ">We are offering you the best sneakers purchase in Africa</p>
 
 
 
-              <button className=" visitStore">  VISIT STORE </button>
+              <button className="visitStore">  VISIT STORE </button>
             </div>
 
            
