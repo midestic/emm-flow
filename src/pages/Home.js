@@ -5,7 +5,6 @@ import SectionHead from "../sections/SectionHead";
 
 
 
-// Image imports (make sure these paths are correct)
  const sneakers1 = './images/pair-trainers.png';
  const boy = './images/boy.jpg';
  const lady = './images/lady.png';
